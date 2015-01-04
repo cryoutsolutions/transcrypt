@@ -13,7 +13,6 @@
 #
 
 ##### Constants
-
 # the release version of this script
 readonly VERSION='0.9.6'
 
